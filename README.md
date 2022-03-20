@@ -21,7 +21,8 @@ As shown in the figure, this mode allows the user to execute three different dis
 
 In order to understand how to run the not-interactive mode, a --help comand was introduced to help the users to understand the arguments needed for its execution. 
 
-![image](https://user-images.githubusercontent.com/45408654/159162618-d7a1bb74-9d7a-42e9-87bc-f4a1fe5c455e.png)
+![image](https://user-images.githubusercontent.com/45408654/159163584-db0ec9b4-ee1c-4176-a6f4-038523bc7b72.png)
+
 
 The parameters have to be introduced in a specified order, otherwise it will print some error messages. In the end, the files are saved in a txt file with the name given by the last parameter. 
 
